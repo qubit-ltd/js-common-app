@@ -3,8 +3,8 @@
 [![npm version](https://badge.fury.io/js/@qubit-ltd/common-app.svg)](https://badge.fury.io/js/@qubit-ltd/common-app)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![English Documentation](https://img.shields.io/badge/docs-English-blue.svg)](README.md)
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Haixing-Hu/js-common-app/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/Haixing-Hu/js-common-app/tree/master)
-[![Coverage Status](https://coveralls.io/repos/github/Haixing-Hu/js-common-app/badge.svg?branch=master)](https://coveralls.io/github/Haixing-Hu/js-common-app?branch=master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/qubit-ltd/js-common-app/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/qubit-ltd/js-common-app/tree/master)
+[![Coverage Status](https://coveralls.io/repos/github/qubit-ltd/js-common-app/badge.svg?branch=master)](https://coveralls.io/github/qubit-ltd/js-common-app?branch=master)
 
 一个用于开发Web应用程序的JavaScript工具库，提供身份验证存储、具有自动令牌管理的HTTP客户端、用户状态管理以及Web开发的实用函数。
 

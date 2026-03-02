@@ -3,8 +3,8 @@
 [![npm version](https://badge.fury.io/js/@qubit-ltd/common-app.svg)](https://badge.fury.io/js/@qubit-ltd/common-app)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![中文文档](https://img.shields.io/badge/文档-中文版-blue.svg)](README.zh_CN.md)
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Haixing-Hu/js-common-app/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/Haixing-Hu/js-common-app/tree/master)
-[![Coverage Status](https://coveralls.io/repos/github/Haixing-Hu/js-common-app/badge.svg?branch=master)](https://coveralls.io/github/Haixing-Hu/js-common-app?branch=master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/qubit-ltd/js-common-app/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/qubit-ltd/js-common-app/tree/master)
+[![Coverage Status](https://coveralls.io/repos/github/qubit-ltd/js-common-app/badge.svg?branch=master)](https://coveralls.io/github/qubit-ltd/js-common-app?branch=master)
 
 A JavaScript library of utilities for developing web applications, providing authentication storage, HTTP client with automatic token management, user state management, and utility functions for web development.
 
