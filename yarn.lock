@@ -2617,14 +2617,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@qubit-ltd/clone@npm:^1.13.6":
-  version: 1.13.6
-  resolution: "@qubit-ltd/clone@npm:1.13.6"
+"@qubit-ltd/clone@npm:^1.13.7":
+  version: 1.13.7
+  resolution: "@qubit-ltd/clone@npm:1.13.7"
   peerDependencies:
     "@babel/runtime": ^7.28.5
-    "@qubit-ltd/naming-style": ^1.3.12
-    "@qubit-ltd/typeinfo": ^3.3.9
-  checksum: 10c0/93056512150907b2535c09b9faef457106834c2ff70908979405fa287a815b5d910f53a5934b54f473450072c64ddfbf3275589c1934b34b3d9d8202d56e34ef
+    "@qubit-ltd/naming-style": ^1.3.13
+    "@qubit-ltd/typeinfo": ^3.3.10
+  checksum: 10c0/ad282f01bc91277279bdeec2ddc8b9d1b5cb0ff7a23637e9e3fe1ec7b91dc42dcac308606e079c243aea6efc936da833f5a5202b78f583aaa4df18ab5521ef55
   languageName: node
   linkType: hard
 
@@ -2640,22 +2640,22 @@ __metadata:
     "@babel/preset-typescript": "npm:^7.27.1"
     "@babel/runtime": "npm:^7.28.5"
     "@jest/core": "npm:^30.1.3"
-    "@qubit-ltd/clone": "npm:^1.13.6"
-    "@qubit-ltd/common-ui": "npm:^1.15.3"
-    "@qubit-ltd/common-util": "npm:^5.4.9"
-    "@qubit-ltd/config": "npm:^1.2.5"
-    "@qubit-ltd/eslint-config": "npm:^2.0.1"
-    "@qubit-ltd/jsdoc-theme": "npm:^1.5.2"
-    "@qubit-ltd/json": "npm:^1.2.6"
-    "@qubit-ltd/logging": "npm:^1.4.15"
-    "@qubit-ltd/naming-style": "npm:^1.3.12"
-    "@qubit-ltd/pinia-decorator": "npm:^3.4.5"
-    "@qubit-ltd/rollup-builder": "npm:^1.8.14"
-    "@qubit-ltd/storage": "npm:^1.4.6"
-    "@qubit-ltd/type-detect": "npm:^2.2.8"
-    "@qubit-ltd/typeinfo": "npm:^3.3.9"
-    "@qubit-ltd/validation-rule": "npm:^1.7.1"
-    "@qubit-ltd/vue3-class-component": "npm:^2.4.5"
+    "@qubit-ltd/clone": "npm:^1.13.7"
+    "@qubit-ltd/common-ui": "npm:^1.15.4"
+    "@qubit-ltd/common-util": "npm:^5.4.10"
+    "@qubit-ltd/config": "npm:^1.2.6"
+    "@qubit-ltd/eslint-config": "npm:^2.0.2"
+    "@qubit-ltd/jsdoc-theme": "npm:^1.5.3"
+    "@qubit-ltd/json": "npm:^1.2.7"
+    "@qubit-ltd/logging": "npm:^1.4.16"
+    "@qubit-ltd/naming-style": "npm:^1.3.13"
+    "@qubit-ltd/pinia-decorator": "npm:^3.4.6"
+    "@qubit-ltd/rollup-builder": "npm:^1.8.15"
+    "@qubit-ltd/storage": "npm:^1.4.7"
+    "@qubit-ltd/type-detect": "npm:^2.2.9"
+    "@qubit-ltd/typeinfo": "npm:^3.3.10"
+    "@qubit-ltd/validation-rule": "npm:1.8.2"
+    "@qubit-ltd/vue3-class-component": "npm:^2.4.6"
     "@rollup/plugin-alias": "npm:^6.0.0"
     "@rollup/plugin-babel": "npm:^6.1.0"
     "@rollup/plugin-commonjs": "npm:^29.0.0"
@@ -2690,67 +2690,67 @@ __metadata:
     vue-eslint-parser: "npm:^10.2.0"
   peerDependencies:
     "@babel/runtime": ^7.28.4
-    "@qubit-ltd/common-ui": ^1.15.3
-    "@qubit-ltd/common-util": ^5.4.9
-    "@qubit-ltd/config": ^1.2.5
-    "@qubit-ltd/json": ^1.2.6
-    "@qubit-ltd/logging": ^1.4.15
-    "@qubit-ltd/pinia-decorator": ^3.4.5
-    "@qubit-ltd/storage": ^1.4.6
-    "@qubit-ltd/type-detect": ^2.2.8
+    "@qubit-ltd/common-ui": ^1.15.4
+    "@qubit-ltd/common-util": ^5.4.10
+    "@qubit-ltd/config": ^1.2.6
+    "@qubit-ltd/json": ^1.2.7
+    "@qubit-ltd/logging": ^1.4.16
+    "@qubit-ltd/pinia-decorator": ^3.4.6
+    "@qubit-ltd/storage": ^1.4.7
+    "@qubit-ltd/type-detect": ^2.2.9
     axios: ^1.12.2
   languageName: unknown
   linkType: soft
 
-"@qubit-ltd/common-ui@npm:^1.15.3":
-  version: 1.15.3
-  resolution: "@qubit-ltd/common-ui@npm:1.15.3"
+"@qubit-ltd/common-ui@npm:^1.15.4":
+  version: 1.15.4
+  resolution: "@qubit-ltd/common-ui@npm:1.15.4"
   peerDependencies:
     "@babel/runtime": ^7.28.4
-    "@qubit-ltd/logging": ^1.4.15
-  checksum: 10c0/fb7e113ae8df74e386440afd8a7b43d0a4a270e2d452ce6dffe6b28e5753d6e6aac58fc85e999f15189bdbfb1c8ff2e38ecd50e37d2b1ac1b8ae1b3492049c4d
+    "@qubit-ltd/logging": ^1.4.16
+  checksum: 10c0/5f0b605837cbe9769e5dc7111b8b927f9ddffe87720933706f019469f6c653f6c9e73d7e0a802d9807a5444ca05fec55cc365483cbc77c22ced5e61e4205899b
   languageName: node
   linkType: hard
 
-"@qubit-ltd/common-util@npm:^5.4.9":
-  version: 5.4.9
-  resolution: "@qubit-ltd/common-util@npm:5.4.9"
+"@qubit-ltd/common-util@npm:^5.4.10":
+  version: 5.4.10
+  resolution: "@qubit-ltd/common-util@npm:5.4.10"
   peerDependencies:
     "@babel/runtime": ^7.28.5
-    "@qubit-ltd/json": ^1.2.6
-    "@qubit-ltd/type-detect": ^2.2.8
-    "@qubit-ltd/typeinfo": ^3.3.9
-  checksum: 10c0/338c767ccd00927bb9503c4a510e0279c41291296c0e05ffbd6f51e231c87f763981cacc9fca657d5f7a89b8c4403e5cd246fcd478c309b18976bdb1e17bf412
+    "@qubit-ltd/json": ^1.2.7
+    "@qubit-ltd/type-detect": ^2.2.9
+    "@qubit-ltd/typeinfo": ^3.3.10
+  checksum: 10c0/5e85d3c06630143de54e84fc31c5d8208fd6fec4d867b5582121f05f8d7e262f62223b988b1d6f87a10a5c2d3c39ea6e7ec39ff71f8b697c56f3add287b8b48c
   languageName: node
   linkType: hard
 
-"@qubit-ltd/config@npm:^1.2.5":
-  version: 1.2.5
-  resolution: "@qubit-ltd/config@npm:1.2.5"
+"@qubit-ltd/config@npm:^1.2.6":
+  version: 1.2.6
+  resolution: "@qubit-ltd/config@npm:1.2.6"
   peerDependencies:
     "@babel/runtime": ^7.28.5
-    "@qubit-ltd/clone": ^1.13.6
-    "@qubit-ltd/common-util": ^5.4.9
-    "@qubit-ltd/naming-style": ^1.3.12
-    "@qubit-ltd/validation-rule": ^1.7.1
-  checksum: 10c0/728086968166ee4ee2efc474a785e9c62812aab20e72497a18034cc5fe223a9134fe0fbd502b5872f875519b4f351ded56f4c7bd8c296b0e542a794d9b8b11e9
+    "@qubit-ltd/clone": ^1.13.7
+    "@qubit-ltd/common-util": ^5.4.10
+    "@qubit-ltd/naming-style": ^1.3.13
+    "@qubit-ltd/validation-rule": 1.8.2
+  checksum: 10c0/95953ee43ae0ae7372414973e1dcb11deeac29b274b7f04b146d31480f130c220ab982ea46aa73545b0a074cc32b7da8053dd77a41be9c4ffe5429e76a46f6b3
   languageName: node
   linkType: hard
 
-"@qubit-ltd/eslint-config@npm:^2.0.1":
-  version: 2.0.1
-  resolution: "@qubit-ltd/eslint-config@npm:2.0.1"
+"@qubit-ltd/eslint-config@npm:^2.0.2":
+  version: 2.0.2
+  resolution: "@qubit-ltd/eslint-config@npm:2.0.2"
   dependencies:
     "@eslint/js": "npm:^9.35.0"
     eslint: "npm:^9.35.0"
     eslint-plugin-import: "npm:^2.31.0"
-  checksum: 10c0/568956019d4766c17f46a0758638c879d6ad2a8c88ebd5a015a7140d4cb1477ef181a6ca52cd8a35d78f1c0de47b632c5a0c50bc45063a21d519e49aeba09eb6
+  checksum: 10c0/b6aab544fe100520b9611e1bc8b1c06c5a750c7118fa60d035b76f10b162b27aa91ab393ad21a8ec77c6368d2703ff414365eef9f057286a445d817243a16f29
   languageName: node
   linkType: hard
 
-"@qubit-ltd/jsdoc-theme@npm:^1.5.2":
-  version: 1.5.2
-  resolution: "@qubit-ltd/jsdoc-theme@npm:1.5.2"
+"@qubit-ltd/jsdoc-theme@npm:^1.5.3":
+  version: 1.5.3
+  resolution: "@qubit-ltd/jsdoc-theme@npm:1.5.3"
   dependencies:
     "@jsdoc/salty": "npm:^0.2.4"
     fs-extra: "npm:^10.1.0"
@@ -2760,54 +2760,54 @@ __metadata:
     showdown: "npm:^2.1.0"
   peerDependencies:
     jsdoc: ">=3.x <=4.x"
-  checksum: 10c0/c77ada44b7cd283259ff0801103900eb373639ec2332a3a8bf2f292246f68828e1ae9df266282ee01ee4fb659226e3c254090bb751d1fa1e0efdcea14c921df1
+  checksum: 10c0/323d34d3c64f6394f4d4b71fe37ed54cc8f24358630d106c7637fd13b11b360f6db9d29e6d16704bfabec3c03bd82f8faaa093cf8b8ec4eaff6a9c59bc7611b3
   languageName: node
   linkType: hard
 
-"@qubit-ltd/json@npm:^1.2.6":
-  version: 1.2.6
-  resolution: "@qubit-ltd/json@npm:1.2.6"
+"@qubit-ltd/json@npm:^1.2.7":
+  version: 1.2.7
+  resolution: "@qubit-ltd/json@npm:1.2.7"
   dependencies:
     json-custom-numbers: "npm:^3.1.1"
   peerDependencies:
     "@babel/runtime": ^7.28.4
-  checksum: 10c0/047824884c71ef0f401de8ad4de891d77bf68da2c75eb123fdcd77c91a54cb8007e46090585d439d22c7ec75666afe067ad1fc25920e25b3853916bc8f14e609
+  checksum: 10c0/854790efebd55e10e5476e8b69634de19bb2ae7eae7fe5b224793c193784a6527ac07378164b3abf6e74a461a614e411b934f4a2b48371e1368ab74787094bcf
   languageName: node
   linkType: hard
 
-"@qubit-ltd/logging@npm:^1.4.15":
-  version: 1.4.15
-  resolution: "@qubit-ltd/logging@npm:1.4.15"
+"@qubit-ltd/logging@npm:^1.4.16":
+  version: 1.4.16
+  resolution: "@qubit-ltd/logging@npm:1.4.16"
   dependencies:
     "@babel/runtime": "npm:^7.28.4"
-  checksum: 10c0/62501604b9d6d985a8a9c94445af2444a029ddfc0e8e5b56f11516c71b8883ea6948160b46745a8aa15c6fe3d9bc33b79e8f2eaf5a0e2922ef16c4c7623c59e0
+  checksum: 10c0/6d536214ccfff1ee1821d8f44c287a752613bde30c51366b8012607b19a55c5c1f1dcfd3375af56896ac1b913a5853f6943d637524352fffa73123152ffb29e5
   languageName: node
   linkType: hard
 
-"@qubit-ltd/naming-style@npm:^1.3.12":
-  version: 1.3.12
-  resolution: "@qubit-ltd/naming-style@npm:1.3.12"
+"@qubit-ltd/naming-style@npm:^1.3.13":
+  version: 1.3.13
+  resolution: "@qubit-ltd/naming-style@npm:1.3.13"
   peerDependencies:
     "@babel/runtime": ^7.26.0
-  checksum: 10c0/5fb34df55ab4a7d792890db3455392e42a63f1c26bc9ff86689f00623f994d35e821fb789cc21400b751d5fd7791f6e3088fb8f5e87154b58c5c05529bbcdb33
+  checksum: 10c0/46b9a7acda7a9fd25984606e7cdb9ef7e3a998eaf58789f85c323ed83727c7ee3f2636308b82773f627b7c781e53206b2d3ab21cecb371d70f16ab749c7ba410
   languageName: node
   linkType: hard
 
-"@qubit-ltd/pinia-decorator@npm:^3.4.5":
-  version: 3.4.5
-  resolution: "@qubit-ltd/pinia-decorator@npm:3.4.5"
+"@qubit-ltd/pinia-decorator@npm:^3.4.6":
+  version: 3.4.6
+  resolution: "@qubit-ltd/pinia-decorator@npm:3.4.6"
   peerDependencies:
     "@babel/runtime": ^7.28.4
-    "@qubit-ltd/vue3-class-component": ^2.4.5
+    "@qubit-ltd/vue3-class-component": ^2.4.6
     pinia: ^3.0.3
     vue: ^3.5.21
-  checksum: 10c0/c24b79766552eeab99c449630b0beb57c144334a1b080c51ddad698add0853105834c660e9dcb46d52da22bc097c25aebbe5411b3625b9726f1b64c4aa529d1e
+  checksum: 10c0/63369aa43811e7a10b29e5677aa92f24be8e28947c534368a9ec00f40d5229b737055e91b990fbe00bc6f4c38cb750106ff72a1098a433fc0762497de65f7b0d
   languageName: node
   linkType: hard
 
-"@qubit-ltd/rollup-builder@npm:^1.8.14":
-  version: 1.8.14
-  resolution: "@qubit-ltd/rollup-builder@npm:1.8.14"
+"@qubit-ltd/rollup-builder@npm:^1.8.15":
+  version: 1.8.15
+  resolution: "@qubit-ltd/rollup-builder@npm:1.8.15"
   peerDependencies:
     "@babel/core": ^7.28.5
     "@babel/plugin-transform-runtime": ^7.28.5
@@ -2822,62 +2822,61 @@ __metadata:
     rollup: ^4.53.3
     rollup-plugin-analyzer: ^4.0.0
     rollup-plugin-visualizer: ^6.0.5
-  checksum: 10c0/dad45782af905bae72b2e1394b43d6763362eccc70f5519773ff1c8ba79ca816880ef1259ef64113721035c7fca49f1602c465738b06848775629ccf6fc02c3c
+  checksum: 10c0/058faee5c674c14922ea62b1c787ee9e19110f9ef943c6ea396471d87a4891385722e4e4cca9d5361bf3d1c32c029d252143804eda33291d8639ac9e2b2a9b46
   languageName: node
   linkType: hard
 
-"@qubit-ltd/storage@npm:^1.4.6":
-  version: 1.4.6
-  resolution: "@qubit-ltd/storage@npm:1.4.6"
+"@qubit-ltd/storage@npm:^1.4.7":
+  version: 1.4.7
+  resolution: "@qubit-ltd/storage@npm:1.4.7"
   dependencies:
     js-cookie: "npm:^3.0.5"
   peerDependencies:
     "@babel/runtime": ^7.28.4
-    "@qubit-ltd/json": ^1.2.6
-  checksum: 10c0/8c6edcfcb5806d3a2cada4e50568768c2190947d475548804dd8e98c6c6d08ff358a39125b4243f84b3e1dc3de8322ffb6cd81ed346490df9ebf54fd3ab72f93
+    "@qubit-ltd/json": ^1.2.7
+  checksum: 10c0/780ca9098eccc24e813d159b71eeb7bc864a173cba493e1d0d11dbeaa1f9c953386474c51cb1729e1675ce3093386b672e9d9cbba2ffdfa04056c95ad8fde30a
   languageName: node
   linkType: hard
 
-"@qubit-ltd/type-detect@npm:^2.2.8":
-  version: 2.2.8
-  resolution: "@qubit-ltd/type-detect@npm:2.2.8"
+"@qubit-ltd/type-detect@npm:^2.2.9":
+  version: 2.2.9
+  resolution: "@qubit-ltd/type-detect@npm:2.2.9"
   peerDependencies:
     "@babel/runtime": ^7.26.0
-  checksum: 10c0/b40dbf6398f1921781d69a87155086ce2d7bdd933e24639e1ea674c088da9d3dabefa8aaf93b8d5d6ca1fcf513dc95b6176995c19d8db2f9b1c4c4b7305fc77d
+  checksum: 10c0/6bb63451f0826723115f94b54ee3dd2b3c14a947c6e8cf40d22d6026f25655e4bedad4e6171bec7f03d5335246854c9c8b9a5bb05105a9a27fc2e2d3b44544e3
   languageName: node
   linkType: hard
 
-"@qubit-ltd/typeinfo@npm:^3.3.9":
-  version: 3.3.9
-  resolution: "@qubit-ltd/typeinfo@npm:3.3.9"
+"@qubit-ltd/typeinfo@npm:^3.3.10":
+  version: 3.3.10
+  resolution: "@qubit-ltd/typeinfo@npm:3.3.10"
   peerDependencies:
     "@babel/runtime": ^7.28.5
-    "@qubit-ltd/type-detect": ^2.2.8
-  checksum: 10c0/f8b50c899fba8e050c8a23b7e602f63db6eb09192735f492a46ba11c02f2bc2c654851776b6578233e0ff5ccfcc35ec786aa218cb05588ac584d65727d8b234d
+    "@qubit-ltd/type-detect": ^2.2.9
+  checksum: 10c0/8c2bbaf9ae3eadb087046b887ce86d54535d3c86df9ee80ccbea1a96d0c74ec93ffc84c3211dd925f2807120424ad8ae67b3cf1fdd147c25a167bfd5353c7dbf
   languageName: node
   linkType: hard
 
-"@qubit-ltd/validation-rule@npm:^1.7.1":
-  version: 1.7.1
-  resolution: "@qubit-ltd/validation-rule@npm:1.7.1"
+"@qubit-ltd/validation-rule@npm:1.8.2":
+  version: 1.8.2
+  resolution: "@qubit-ltd/validation-rule@npm:1.8.2"
   dependencies:
     email-validator: "npm:^2.0.4"
-    node-uri: "npm:^1.1.2"
   peerDependencies:
     "@babel/runtime": ^7.26.0
-    "@qubit-ltd/type-detect": ^2.2.8
-  checksum: 10c0/f9c2e7e5603fd462588e13dd9a3b4e3a4ff8efefc7adba7d286ed9e398e5298a9875f46478a9189f922c1c36bf15a59d7d0cb8f26c5abf2e586ef1d300de126b
+    "@qubit-ltd/type-detect": ^2.2.9
+  checksum: 10c0/8e356331189556d5d8644692d3ab6a19206d2831997b25574fa755e83e01af72a8d7679cbb6d1b6b1ad2bdb661abe2e43bb599c996a84e5ef66c1c152efbcc38
   languageName: node
   linkType: hard
 
-"@qubit-ltd/vue3-class-component@npm:^2.4.5":
-  version: 2.4.5
-  resolution: "@qubit-ltd/vue3-class-component@npm:2.4.5"
+"@qubit-ltd/vue3-class-component@npm:^2.4.6":
+  version: 2.4.6
+  resolution: "@qubit-ltd/vue3-class-component@npm:2.4.6"
   peerDependencies:
     "@babel/runtime": ^7.28.5
-    "@qubit-ltd/clone": ^1.13.6
+    "@qubit-ltd/clone": ^1.13.7
     vue: ^3.5.21
-  checksum: 10c0/6f59a2b33e693d6f5d2d1175cd080ce5d4fd2890fd402c11b85c2d1f0155c98311aa0877b7d1bf2412257b5f49ddf366fbafefee077d4aa271c81f7adf92e137
+  checksum: 10c0/5101a71a0ea1ab7618e2a8bb4b04238493d4085a1150363fcf344e39939b5f8e447624e0d395e437a98fce238fbc0481a491b6859ab906fa7f8f29e017d6cb5f
   languageName: node
   linkType: hard
 
@@ -8103,13 +8102,6 @@ __metadata:
   version: 2.0.27
   resolution: "node-releases@npm:2.0.27"
   checksum: 10c0/f1e6583b7833ea81880627748d28a3a7ff5703d5409328c216ae57befbced10ce2c991bea86434e8ec39003bd017f70481e2e5f8c1f7e0a7663241f81d6e00e2
-  languageName: node
-  linkType: hard
-
-"node-uri@npm:^1.1.2":
-  version: 1.1.2
-  resolution: "node-uri@npm:1.1.2"
-  checksum: 10c0/1d14b2bb5513125e8ef454b4a81245608ba306a03a103befb27cb669bbb9f68e89638cb608f23eefa6c1dfe6dec9e7babfeea2825c8d75af6edee9d254167dc4
   languageName: node
   linkType: hard
 
